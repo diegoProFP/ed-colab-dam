@@ -12,6 +12,7 @@ public class Reno {
     private int velocidad;
 
     private int numCuernos;
+    private int numCollares;
     /**
      * Metodo para que un reno se ponga a volar
      * @param direccion La direccion a la que tiene que ir el reno
@@ -33,5 +34,38 @@ public class Reno {
         //TODO terminar
     }
 
+	public String getNombre() {
+		return nombre;
+	}
+
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+
+	public int getVelocidad() {
+		return velocidad;
+	}
+
+	public void setVelocidad(int velocidad) {
+		this.velocidad = velocidad;
+	}
+
+	public int getNumCuernos() {
+		return numCuernos;
+	}
+
+	public void setNumCuernos(int numCuernos) {
+		this.numCuernos = numCuernos;
+	}
+
+	public int getNumCollares() {
+		return numCollares;
+	}
+
+	public void setNumCollares(int numCollares) {
+		this.numCollares = numCollares;
+	}
+
+    
 
 }
