@@ -2,6 +2,7 @@ package com.polonorte;
 /**
  * MI CLASE PERSONA
  * @author MarioH 
+ * @version 0.1
  *
  */
 
