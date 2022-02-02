@@ -2,7 +2,7 @@ package com.polonorte;
 
 public class Pablo {
 /**
- * PP1 CLASE PERSONAL
+ * PP1 CLASE PERSONAL 
  * @author Pablo Barderas Fernández
  * 
  */
