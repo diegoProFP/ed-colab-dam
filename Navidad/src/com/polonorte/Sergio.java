@@ -10,7 +10,7 @@ package com.polonorte;
 
 public class Sergio {
 
-	
+	int suspenso =0;
 	
 	
 	

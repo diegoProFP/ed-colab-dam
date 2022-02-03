@@ -19,7 +19,7 @@ public class Reno {
      * @return El grito de guerra que devuelve el reno
      */
     public String volar(String direccion){
-        System.out.println("Reno.volar");
+        System.out.println("Reno.volar SERGIO ");
 
         System.out.println("Reno volando");
         return "mmmmmiiiiii chus chus peeeeerrrr";
@@ -64,6 +64,7 @@ public class Reno {
 
 	public void setNumCollares(int numCollares) {
 		this.numCollares = numCollares;
+		
 	}
 
     
