@@ -22,7 +22,7 @@ public class Reno {
         System.out.println("Reno.volar");
 
         System.out.println("Reno volando");
-        return "mmmmmiiiiii chus chus peeeeerrrr";
+        return "Soy un reno voladoor";
     }
 
     /**
