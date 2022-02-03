@@ -19,8 +19,13 @@ public class Reno {
      */
     public String volar(String direccion){
         System.out.println("Reno.volar");
-
+        System.out.println("El reno Karolina");
         System.out.println("Reno volando");
+        
+        System.out.println("El Reno se ha caido");
+        
+        
+        
         return "mmmmmiiiiii chus chus peeeeerrrr";
     }
 
