@@ -6,4 +6,5 @@ package com.polonorte;
  */
 public class Isaac {
 
+	int suspenso=0;
 }
