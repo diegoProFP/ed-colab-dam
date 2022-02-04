@@ -19,11 +19,7 @@ public class Reno {
      * @return El grito de guerra que devuelve el reno
      */
     public String volar(String direccion){
-<<<<<<< HEAD
-        System.out.println("Reno.volar DIEGO Freddy");
-=======
-        System.out.println("Reno.volar");
->>>>>>> main
+	System.out.println("Reno.volar DIEGO Freddy");
 
         System.out.println("Reno volando");//comment
         return "mmmmmiiiiii chus chus peeeeerrrr";
