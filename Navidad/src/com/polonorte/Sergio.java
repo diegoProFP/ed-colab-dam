@@ -2,8 +2,8 @@ package com.polonorte;
 
 
 /**
- * 
- * Mi clase personal
+ * <h1>Clase creada para 1DAM TECHNOLOGIES</h1>
+ * <i>Todos los derechos reservados<i>. 
  * @author 1dama
  *
  */
