@@ -3,7 +3,8 @@ package com.polonorte;
 public class Isidro {
 
 /**
- * PP1 CLASE PERSONAL
+ * <h1>Clase creada para 1DAM TECHNOLOGIES</h1>
+ * <i>Todos los derechos reservados<i>. 
  * @author Isidro Ruiz Álvarez
  * 
  */
