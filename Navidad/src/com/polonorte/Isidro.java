@@ -3,7 +3,10 @@ package com.polonorte;
 public class Isidro {
 
 /**
- * PP1 CLASE PERSONAL
+ * HOLA! ESTE ES UN COMENTARIO
+ * QUE DEBERIA DAR UN CONFLICTO
+ * QUE TE PASAS..
+ * ¿VERDAD? :)
  * @author Isidro Ruiz Álvarez
  * 
  */

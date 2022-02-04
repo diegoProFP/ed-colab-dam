@@ -1,6 +1,9 @@
 package com.polonorte;
 /**
- * MI CLASE PERSONA
+ * HOLA! ESTE ES UN COMENTARIO
+ * QUE DEBERIA DAR UN CONFLICTO
+ * QUE TE PASAS..
+ * ¿VERDAD? :)
  * @author MarioH 
  * @version 0.1
  *

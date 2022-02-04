@@ -2,7 +2,10 @@ package com.polonorte;
 
 public class Pablo {
 /**
- * PP1 CLASE PERSONAL 
+ * HOLA! ESTE ES UN COMENTARIO
+ * QUE DEBERIA DAR UN CONFLICTO
+ * QUE TE PASAS..
+ * ¿VERDAD? :)
  * @author Pablo Barderas Fernández
  * 
  */

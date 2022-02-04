@@ -1,9 +1,10 @@
 package com.polonorte;
 
 /**
- * 
- * Clase con las funcionalidades de Andony
- * 
+ * HOLA! ESTE ES UN COMENTARIO
+ * QUE DEBERIA DAR UN CONFLICTO
+ * QUE TE PASAS..
+ * ¿VERDAD? :)
  * @author Andony Ng
  * @version 1.0
  *

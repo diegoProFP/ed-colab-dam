@@ -1,8 +1,10 @@
 package com.polonorte;
 
 /**
- * Mi primer rama
- * 
+ * HOLA! ESTE ES UN COMENTARIO
+ * QUE DEBERIA DAR UN CONFLICTO
+ * QUE TE PASAS..
+ * ¿VERDAD? :)
  * @author Bruno de Bragança Vieira
  *
  */
