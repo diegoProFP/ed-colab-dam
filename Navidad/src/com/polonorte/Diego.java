@@ -2,7 +2,7 @@ package com.polonorte;
 
 /**
  *Esta clase se va a encargar de todo lo
- *relacionado con
+ *relacionado cdewedwedweded
  *el streaming de series en Netflix
  * @author Diego
  *
