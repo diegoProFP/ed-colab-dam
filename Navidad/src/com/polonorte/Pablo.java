@@ -1,8 +1,8 @@
 package com.polonorte;
 
 public class Pablo {
-/**
- * PP1 CLASE PERSONAL 
+/**Esta va a ser una clase que creará objetos voladores
+ * capaces de moverse por cualquier lugar
  * @author Pablo Barderas Fernández
  * 
  */
