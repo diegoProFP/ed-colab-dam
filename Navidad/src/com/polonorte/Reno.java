@@ -22,7 +22,7 @@ public class Reno {
         System.out.println("Reno.volar DIEGO DIGIONANTONIO Pablo");
 
         System.out.println("Reno volando");
-        return "Soy un reno voladoor";
+        return "mmmmmiiiiii chus chus peeeeerrrr";
     }
 
     /**

@@ -1,7 +1,8 @@
 package com.polonorte;
 
 /**
- * Esta es mi clase personal
+ * <h1>Clase creada para 1DAM TECHNOLOGIES</h1>
+ * <i>Todos los derechos reservados<i>. 
  * @author Jorge Calle Rodríguez
  *
  */
