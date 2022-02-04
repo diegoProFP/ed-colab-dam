@@ -1,7 +1,10 @@
 package com.polonorte;
 
 /**
- * Esta es mi clase personal
+ * HOLA! ESTE ES UN COMENTARIO
+ * QUE DEBERIA DAR UN CONFLICTO
+ * QUE TE PASAS..
+ * ¿VERDAD? :)
  * @author Jorge Calle Rodríguez
  *
  */

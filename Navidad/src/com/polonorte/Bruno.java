@@ -5,10 +5,10 @@ package com.polonorte;
  * QUE DEBERIA DAR UN CONFLICTO
  * QUE TE PASAS..
  * ¿VERDAD? :)
- * @author 1dama
+ * @author Bruno de Bragança Vieira
  *
  */
 
-public class DanielP {
+public class Bruno {
 
 }
