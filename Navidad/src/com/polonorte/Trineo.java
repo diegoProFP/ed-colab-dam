@@ -47,6 +47,28 @@ public class Trineo {
     }
 
 
+    /**
+     * Metodo para calcular si un niño/a ha sido bueno, por lo tanto merece o no regalo.
+     * @param nombre El nombre del niño/a
+     * @param numeroPeleas La cantidad de peleas en las que ha estado involucrado
+     * @param vecesGracias El numero de veces que ha dicho <i>gracias</i>
+     * @param vecesPorFavor El numero de veces que ha dicho <i>por favor</i>
+     * @return True si merece regalo, false en caso contrario
+     */
+    public boolean mereceRegalo(String nombre, int numeroPeleas, int vecesGracias, int vecesPorFavor) {
+    	
+	    boolean haSidoBueno = false;
+	    
+	    if(numeroPeleas == 0) {
+	    	haSidoBueno = true;
+	    }else if(numeroPeleas > 0 && vecesGracias > 10 && vecesPorFavor > 8) {
+	    	haSidoBueno = true;
+	    }else {
+	    	haSidoBueno = false;
+	    }
+	    
+	    return haSidoBueno;
+	}
 
 
 }
