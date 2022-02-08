@@ -1,11 +1,12 @@
 package com.polonorte;
 
+public class Pablo {
 /**
  * <h1>Clase creada para 1DAM TECHNOLOGIES</h1>
  * <i>Todos los derechos reservados<i>. 
- * @author Diego
- *
+ * @author Pablo Barderas Fernández
+ * 
  */
-public class Diego {
-
-}
+	
+	
+}//Fin Pablo
