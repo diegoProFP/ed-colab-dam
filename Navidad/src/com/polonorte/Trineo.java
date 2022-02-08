@@ -61,7 +61,7 @@ public class Trineo {
 	    
 	    if(numeroPeleas == 0) {
 	    	haSidoBueno = true;
-	    }else if(numeroPeleas > 0 && vecesGracias > 10 && vecesPorFavor > 8) {
+	    }else if(numeroPeleas > 0 && vecesGracias > 20 && vecesPorFavor > 15) {
 	    	haSidoBueno = true;
 	    }else {
 	    	haSidoBueno = false;
